@@ -1,0 +1,13 @@
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/GLAD.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/01PlayWindow.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/02DrawTriangle.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/03DrawQuad.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/04Shader.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/05Texture.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/06Transform.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/07MVPTransform.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/08Camera.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/01LoadModel.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CWorkSpace/LearnOpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

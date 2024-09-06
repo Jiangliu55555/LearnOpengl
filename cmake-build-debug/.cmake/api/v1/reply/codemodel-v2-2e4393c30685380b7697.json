@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LearnOpenGL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01LoadModel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01LoadModel-Debug-74953a5c22c7c1a7d403.json",
+					"name" : "01LoadModel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01PlayWindow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01PlayWindow-Debug-b8724009de0e7d14bd04.json",
+					"name" : "01PlayWindow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02DrawTriangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02DrawTriangle-Debug-5f9d17257794c4b3ecc2.json",
+					"name" : "02DrawTriangle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03DrawQuad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03DrawQuad-Debug-5afd3ab084347b32261c.json",
+					"name" : "03DrawQuad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04Shader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04Shader-Debug-fd9c1a5c7105e63afb2a.json",
+					"name" : "04Shader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05Texture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05Texture-Debug-9da2047c7ab547e7abe8.json",
+					"name" : "05Texture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06Transform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06Transform-Debug-90a61a97e095facdb749.json",
+					"name" : "06Transform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07MVPTransform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07MVPTransform-Debug-c7fef6b83366b474f26f.json",
+					"name" : "07MVPTransform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08Camera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08Camera-Debug-28a9af5626c0aa425838.json",
+					"name" : "08Camera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GLAD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GLAD-Debug-52b87a99a43f0034915f.json",
+					"name" : "GLAD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STB_IMAGE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STB_IMAGE-Debug-98a5e1a3b7fdf9465306.json",
+					"name" : "STB_IMAGE",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CWorkSpace/LearnOpenGL/cmake-build-debug",
+		"source" : "C:/CWorkSpace/LearnOpenGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
